@@ -1,6 +1,6 @@
 Use aggregate functions and grouping to summarize data.
 
-Aggregate functions are used to perform calculations on a set of rows and return a single value.
+1)Aggregate functions are used to perform calculations on a set of rows and return a single value.
 
 ->COUNT() : counts rows
 
@@ -18,6 +18,6 @@ Aggregate functions are used to perform calculations on a set of rows and return
 
 
 
-GROUP BY is used to categorize results 
+2)GROUP BY is used to categorize results 
 
-HAVING is used to filter groups "after aggregation".
+3)HAVING is used to filter groups "after aggregation".
